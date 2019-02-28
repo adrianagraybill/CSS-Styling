@@ -1,0 +1,113 @@
+body {
+  font-family: Calibri, 'Trebuchet MS', sans-serif
+}
+
+header {
+  margin: 20px 0px;
+}
+
+.logo {
+  float: left;
+}
+
+.delicious {
+  font-family: cursive;
+  font-size: 20px;
+}
+
+header {
+  background: rgb(255, 255, 255);
+}
+    
+header section {
+  width: 950px;
+  margin: 0 auto;
+}
+
+header div img {
+  margin: 0 auto;
+}
+
+header li {
+  display: inline-block;
+}
+
+header li {
+  float: right;
+}
+
+.head {
+  float: left;
+}
+
+.print {
+  float: right;
+}
+
+div.print {
+  display: inline-block;
+}
+
+main {
+  width: 950px;
+  margin: 30px auto;
+}
+
+.banner {
+  width: 950px;
+}
+
+.head {
+  font-size: 30px;
+}
+
+.pizza {
+  width: 950px;
+}
+
+.steps{
+  text-indent: 50px;
+  padding-top: 30px;
+}
+
+.list {
+  width: 950px;
+  padding-top: 30px;
+}
+
+.vanessa img {
+  float: left;
+}
+
+button {
+  border: none;
+  background: rgb(207, 115, 87);
+  color: #fff;
+  padding: 15px 30px;
+  transition: 350ms all;
+  cursor: pointer;
+  float: right;
+}
+
+    
+button:hover {
+  background: #888;
+  color: #000;
+}
+    
+footer {
+  background: rgb(255, 255, 255);
+  height: 100px;
+  text-align: center;
+  padding-bottom: 50px;
+  width: 950px;
+  margin: 0 auto;
+}
+
+
+/* position: absolute
+top: 
+left:
+margin-top: -280px;
+width: 150px;
+line height: 2; */
