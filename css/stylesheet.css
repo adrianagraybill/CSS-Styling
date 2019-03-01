@@ -160,12 +160,35 @@ button:hover {
 }
 
 footer {
-  background: rgb(255, 255, 255);
   text-align: center;
   padding-bottom: 50px;
   width: 850px;
   margin: 0 auto;
-  padding-top: 50px;
+  padding-top: 0px;
+}
+
+hr {
+  width: 47%;
+}
+
+
+#leftline {
+  margin-top: 20px;
+  float: left;
+}
+
+#bottomlogo {
+  float: left;
+}
+
+#rightline {
+  margin-top: 20px;
+  float: left;
+}
+
+#line {
+  margin-top: 70px;
+  display: block;
 }
 
 /* position: absolute
